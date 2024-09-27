@@ -2,7 +2,7 @@
 Desenvolvedora júnior e estudante de Análise e Desenvolvimento de Sistemas, com 21 anos, vivendo no litoral de São Paulo. Apaixonada por tecnologia e sempre em busca de novos aprendizados para aprimorar minhas habilidades de programação e desenvolvimento.
  <div>
   <a href="https://github.com/AmandaOliveir4">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaOliveir4&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaOliveir4&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 </div>
     
 <div style="display: inline_block"><br>
