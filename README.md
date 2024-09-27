@@ -26,3 +26,9 @@ Desenvolvedora júnior e estudante de Análise e Desenvolvimento de Sistemas, co
   
  
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmandaOliveir4/AmandaOliveir4/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmandaOliveir4/AmandaOliveir4/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AmandaOliveir4/AmandaOliveir4/output/github-contribution-grid-snake.svg">
+</picture>
